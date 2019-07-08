@@ -10,3 +10,6 @@ sh mypytorch-interact.sh
 
 To run jupyter with docker, please run
 sh run-jupyter.sh.
+
+
+Future, add one time shell for jupyter startup.
